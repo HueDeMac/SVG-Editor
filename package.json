@@ -1,5 +1,5 @@
 {
-  "name" : "svg editor",
+  "name" : "svgeditor",
   "version" : "1.0.0",
   "description" : "My SVG Editor",
   "scripts" : {
